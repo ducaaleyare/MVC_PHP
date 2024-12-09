@@ -8,6 +8,6 @@
         <title>Document</title>
     </head>
     <body>
-        Home Page
+        This is the Home Page
     </body>
 </html>

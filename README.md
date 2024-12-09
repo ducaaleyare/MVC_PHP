@@ -1,10 +1,7 @@
-#### The exercise for the PHP course "Learn PHP The Right Way" lesson 2.33.
+#### The exercise for the PHP Project
 
----
 
-#### Course Playlist
 
-https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
 
 ---
 
